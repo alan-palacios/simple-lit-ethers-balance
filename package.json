@@ -1,0 +1,17 @@
+{
+  "name": "lit-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --watch --open"
+  },
+  "dependencies": {
+    "lit": "^2.6.1"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
